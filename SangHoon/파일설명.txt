@@ -1,0 +1,29 @@
+applycarrier - 가게 배달횟수결제
+Carreier - 배달기사 메인화면
+comlist - 라이더 배달완료목록
+compcountprocess - 가게 맨처음 구매한 배달횟수
+comple - 라이더 배달요청확인 상태 변환 (수락후 고객주문번호가 보임)
+countprocess - 가게 배달 잔여횟수 처리
+Customer - 가게 메인화면
+dataorder - 배달 정보 처리
+Home - 대행업체 메인화면
+logincarrierprocess - 라이더 회원가입 정보처리
+logincustomerprocess - 가게 회원가입 정보처리
+LOGINTEST - 로그인 메인화면 (대행업체로그인 - donghyuk/handsome)
+NewCarrier - 라이더 회원가입
+NewCustomer - 가게 회원가입
+paylist - 대행업체 결제내역
+prelist - 라이더 배달예정목록
+progress - 라이더 배달요청확인 수락후 > 배달진행중
+request - 라이더 배달요청확인 배달 수락,거절 창
+search - 라이더를 번호,이름으로 검색(대행업체)
+searchresult - 검색결과(대행업체)
+statuslist - 배달상황(대행업체)
+
+
+[폴더]
+datacarrier - 라이더 회원가입 정보
+datacomp - 맨처음 구매한 배달횟수
+datacount - 배달잔여횟수
+datacustomer - 가게 회원가입 정보
+dataorder - 배달 정보
